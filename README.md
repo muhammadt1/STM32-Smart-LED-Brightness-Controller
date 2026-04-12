@@ -2,6 +2,10 @@
 
 An embedded system for the STM32F103RB (ARM Cortex-M3) that controls LED brightness using two modes: automatic (ambient light sensor) and manual (potentiometer). Mode is toggled with a push button, and brightness level is shown on a 16x2 LCD display.
 
+## Project Demonstration
+
+[Watch the project demonstration](https://youtube.com/shorts/DSvezl88kx4?feature=share)
+
 ## Hardware
 
 | Component | Pin |
